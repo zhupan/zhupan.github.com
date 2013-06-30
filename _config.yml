@@ -10,10 +10,10 @@ markdown: rdiscount
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Jekyll Test
 tagline: Site Tagline
 author :
-  name :  ÷Ï≈ 
+  name :  zhupan
   email : panoszhu@gmail.com
   github : zhupan
   twitter : zhupan
