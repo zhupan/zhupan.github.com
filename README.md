@@ -1,2 +1,4 @@
-zhupan.github.com
-=================
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
